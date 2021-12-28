@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhaTheGhost
+- 👋 Hi, it's @AhaTheGhost
 - 👀 I’m interested in PHP, C#, C++, JS
 - 🌱 I’m currently learning Laravel
 - 📫 You can reach me through ahmad360pro@gmail.com
