@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed (@AhaTheGhost)
 
 - 👀 I’m interested in PHP, C#, C++, JS
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Laravel, Apex
 - 📫 You can reach me through [ahmad360pro@gmail.com](mailto:ahmad360pro@gmail.com)
 - 🌐 Check out my website: [ghostila.cc](https://ghostila.cc)
 
